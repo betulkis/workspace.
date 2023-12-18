@@ -1,0 +1,36 @@
+[1.584s] Invoking command in '/home/betul/betul_ws/src/betul': PYTHONPATH=/home/betul/betul_ws/build/betul/prefix_override:/home/betul/betul_ws/install/betul/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/betul build --build-base /home/betul/betul_ws/build/betul/build install --record /home/betul/betul_ws/build/betul/install.log --install-scripts $base/lib/betul --single-version-externally-managed
+[1.949s] running egg_info
+[1.950s] creating ../../build/betul/betul.egg-info
+[1.950s] writing ../../build/betul/betul.egg-info/PKG-INFO
+[1.950s] writing dependency_links to ../../build/betul/betul.egg-info/dependency_links.txt
+[1.951s] writing entry points to ../../build/betul/betul.egg-info/entry_points.txt
+[1.951s] writing requirements to ../../build/betul/betul.egg-info/requires.txt
+[1.951s] writing top-level names to ../../build/betul/betul.egg-info/top_level.txt
+[1.953s] writing manifest file '../../build/betul/betul.egg-info/SOURCES.txt'
+[2.012s] reading manifest file '../../build/betul/betul.egg-info/SOURCES.txt'
+[2.013s] writing manifest file '../../build/betul/betul.egg-info/SOURCES.txt'
+[2.013s] running build
+[2.013s] running build_py
+[2.013s] creating /home/betul/betul_ws/build/betul/build
+[2.014s] creating /home/betul/betul_ws/build/betul/build/lib
+[2.014s] creating /home/betul/betul_ws/build/betul/build/lib/betul
+[2.014s] copying betul/__init__.py -> /home/betul/betul_ws/build/betul/build/lib/betul
+[2.014s] copying betul/publisher_member_function.py -> /home/betul/betul_ws/build/betul/build/lib/betul
+[2.014s] running install
+[2.016s] running install_lib
+[2.017s] creating /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul
+[2.017s] copying /home/betul/betul_ws/build/betul/build/lib/betul/__init__.py -> /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul
+[2.018s] copying /home/betul/betul_ws/build/betul/build/lib/betul/publisher_member_function.py -> /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul
+[2.018s] byte-compiling /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul/__init__.py to __init__.cpython-38.pyc
+[2.021s] byte-compiling /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[2.021s] running install_data
+[2.022s] creating /home/betul/betul_ws/install/betul/share/ament_index
+[2.023s] creating /home/betul/betul_ws/install/betul/share/ament_index/resource_index
+[2.023s] creating /home/betul/betul_ws/install/betul/share/ament_index/resource_index/packages
+[2.023s] copying resource/betul -> /home/betul/betul_ws/install/betul/share/ament_index/resource_index/packages
+[2.023s] copying package.xml -> /home/betul/betul_ws/install/betul/share/betul
+[2.023s] running install_egg_info
+[2.026s] Copying ../../build/betul/betul.egg-info to /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul-0.0.0-py3.8.egg-info
+[2.027s] running install_scripts
+[2.057s] writing list of installed files to '/home/betul/betul_ws/build/betul/install.log'
+[2.097s] Invoked command in '/home/betul/betul_ws/src/betul' returned '0': PYTHONPATH=/home/betul/betul_ws/build/betul/prefix_override:/home/betul/betul_ws/install/betul/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/betul build --build-base /home/betul/betul_ws/build/betul/build install --record /home/betul/betul_ws/build/betul/install.log --install-scripts $base/lib/betul --single-version-externally-managed

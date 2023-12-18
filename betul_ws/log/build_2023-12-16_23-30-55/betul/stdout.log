@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/betul/betul.egg-info/PKG-INFO
+writing dependency_links to ../../build/betul/betul.egg-info/dependency_links.txt
+writing entry points to ../../build/betul/betul.egg-info/entry_points.txt
+writing requirements to ../../build/betul/betul.egg-info/requires.txt
+writing top-level names to ../../build/betul/betul.egg-info/top_level.txt
+reading manifest file '../../build/betul/betul.egg-info/SOURCES.txt'
+writing manifest file '../../build/betul/betul.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/betul/betul.egg-info to /home/betul/betul_ws/install/betul/lib/python3.8/site-packages/betul-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/betul/betul_ws/build/betul/install.log'

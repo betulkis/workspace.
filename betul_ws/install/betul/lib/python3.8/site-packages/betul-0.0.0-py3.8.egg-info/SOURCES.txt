@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/betul/betul.egg-info/PKG-INFO
+../../build/betul/betul.egg-info/SOURCES.txt
+../../build/betul/betul.egg-info/dependency_links.txt
+../../build/betul/betul.egg-info/entry_points.txt
+../../build/betul/betul.egg-info/requires.txt
+../../build/betul/betul.egg-info/top_level.txt
+../../build/betul/betul.egg-info/zip-safe
+betul/__init__.py
+betul/publisher_member_function.py
+resource/betul
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
